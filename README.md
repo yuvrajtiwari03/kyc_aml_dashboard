@@ -30,10 +30,5 @@ The Python script merges KYC and transaction data, flags suspicious customers, c
 
 ---
 
-## Installation & Setup
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/yuvrajtiwari03/kyc_aml_dashboard.git
-cd kyc_aml_dashboard
-
+DASHBOARD:
+newplot (3).png
