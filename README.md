@@ -32,3 +32,9 @@ The Python script merges KYC and transaction data, flags suspicious customers, c
 
 DASHBOARD:
 newplot (3).png
+
+
+## License
+
+This project is **open-source** and free to use.
+
