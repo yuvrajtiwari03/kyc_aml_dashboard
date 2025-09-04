@@ -1,0 +1,101 @@
+customerid,name,dob,pan,aadhaar,phone,email,address,age,age_status,pan_status,aadhaar_status,phone_status,email_status,kyc_result,is_suspicious,transaction_amount,risk_level
+1,Urvi Manne,12/31/1967,ONWWT3488J,878223000000.0,9691299571,kimayamani@hotmail.com,"H.No. 408, Shah Marg Bettiah-612925",58,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+2,Vivaan Swamy,11/17/2006,BUKLK9822J,932726000000.0,7072544958,vritika14@gmail.com,14/225 Chandra Ganj Tumkur 689765,19,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+3,Heer Sharaf,6/25/1975,CGHOZ8122D,409779000000.0,9678979774,nirvaantank@kar.org,H.No. 043 Solanki Marg Howrah 006211,50,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+4,Raghav Sunder,6/10/1958,TWUTP8844W,565484000000.0,1944065427,wray@hotmail.com,27 Sha Zila Giridih-713217,67,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+5,Kimaya Varma,6/18/1987,COWRG3351S,464739000000.0,4282417707,magarrhea@gmail.com,"21/582, Kale Chowk, Unnao-415214",38,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+6,Saksham Ranganathan,3/26/1981,NZWKX8151N,150750000000.0,9381997436,alanka@yahoo.com,"27/81 Lata Street, Kolhapur-355816",44,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+7,Dhruv Dugar,6/7/1977,XQZSK2355Z,839951000000.0,5293767708,sachdevagokul@sehgal.com,"708 Tailor Street, Thiruvananthapuram-153558",48,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+8,Siya Saini,6/12/1999,TWNKJ5260N,943260000000.0,956521035,taimurraju@hotmail.com,455 Batta Street Salem-288213,26,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+9,Chirag Dass,6/27/1959,QKDDC5860Q,382502000000.0,3512676864,pranay88@yahoo.com,"13/96, Dutta Marg Etawah 529382",66,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+10,Farhan Manda,8/19/1995,IUBRA8283D,360217000000.0,3627581393,myrachaudhry@bhatt-kala.com,"45/546, Sehgal Path, Nagpur-525023",30,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+11,Samarth Warrior,11/28/1974,HELAD4441E,359849000000.0,6930388818,wsawhney@hotmail.com,"94, Shukla Nagar, Panvel-734690",51,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+12,Zain Bassi,5/19/1970,AHERN0352O,930383000000.0,4154491754,manjariwable@hotmail.com,"H.No. 856 Sama Zila, Gurgaon 492141",55,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+13,Aradhya Iyer,1/29/1969,MTKAH2893J,409781000000.0,5529419388,pihu55@salvi-de.org,"H.No. 293, Chaudhary Nagar, Bally-749589",56,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+14,Hiran Mani,2/29/2008,AKBWX0184O,650545000000.0,6882288602,boaseela@gmail.com,"358, Balakrishnan, Jammu-999596",17,Invalid (Underage),Valid,Valid,Valid,Valid,KYC Rejected (Invalid Age),No,0.0,Low
+15,Anay Bhavsar,5/16/1990,CIBPO2272B,841404000000.0,1985845364,sandra@yahoo.com,"89 Dave Road, Sambhal 516263",35,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+16,Damini Bora,3/8/1971,OOTHO8713Q,451394000000.0,3282818500,ganeshraunak@iyengar.com,H.No. 244 Seshadri Zila Jodhpur 893702,54,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+17,Vanya Sarraf,2/2/2005,TUCHD9020W,799226000000.0,778146491,nakullad@chawla.org,888 Sehgal Nagar Nangloi Jat 096606,20,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+18,Romil Butala,10/21/1959,UNTOB9491J,392116000000.0,1640776289,qratti@yahoo.com,"07 Seshadri, Ujjain-336870",66,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+19,Madhup Mahajan,11/27/1983,SYTPH7793V,398154000000.0,6963853049,nityarajan@hotmail.com,"H.No. 97 Manda Marg, Vijayanagaram-482095",42,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+20,Ojas Seth,12/27/2008,ZGIYK8723T,65985393686.0,7390771191,yatwal@gmail.com,H.No. 800 Sur Nagar Mira-Bhayandar 388991,17,Invalid (Underage),Valid,Invalid,Valid,Valid,"KYC Rejected (Invalid Age, Invalid Aadhaar)",No,0.0,Low
+21,Yuvaan Raval,12/22/1974,OFKFM9681A,816627000000.0,7462110977,chiragkari@hotmail.com,"53/97, Lanka Marg Kishanganj 469053",51,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+22,Vivaan Ramachandran,6/22/1995,ZEZCI4155V,798365000000.0,3882335803,sommahika@gala.com,"33/15, Cheema Path, Secunderabad 650660",30,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+23,Adah Bali,6/27/2002,LDDZF1547J,399077000000.0,1054493044,lavanyasrivastava@yahoo.com,"H.No. 26 Kunda Circle, Jehanabad 995989",23,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+24,Dhruv Kanda,2/17/1981,AQICA3950O,228601000000.0,7104868842,vlad@subramanian-chaudhuri.org,"03/657 Jaggi Marg, Imphal-006332",44,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+25,Seher Bandi,9/11/1984,JOWCZ7368F,719658000000.0,9562338104,neelofar44@ravi.com,41/853 Sehgal Kanpur-819280,41,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+26,Hiran Bhandari,9/30/2009,FAUNT8401S,783472000000.0,6157789752,kartik78@yahoo.com,337 Joshi Street Kumbakonam-904882,16,Invalid (Underage),Valid,Valid,Valid,Valid,KYC Rejected (Invalid Age),No,0.0,Low
+27,Pihu Ganguly,6/27/1987,AWKII2018H,436732000000.0,1116469043,tbalan@hegde.org,"407, Sundaram Street, Rajahmundry 405171",38,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+28,Riya Aurora,1/8/1985,SOCUR5942Y,781207000000.0,5902925855,fbarad@hotmail.com,"H.No. 69 Bhasin Chowk, Ujjain-689892",40,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+29,Akarsh Divan,5/30/1988,BHUEG6556I,133604000000.0,9676826181,mohanlalchanda@gmail.com,"52, Sankar Road Jaipur-753547",37,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+30,Kismat Vala,8/13/1957,UCNIG8346R,439658000000.0,8509376578,sainidarshit@amble-garde.biz,"06, Taneja Chowk, Gurgaon 795353",68,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+31,Kiaan Wali,7/28/1978,ZTFBZ2548J,704631000000.0,524162901,desaipari@korpal.com,"H.No. 396, Lalla Jaunpur-970160",47,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+32,Bhamini Kapur,12/31/1990,HDBDC2933L,118104000000.0,270562095,gokuljani@sood.com,"H.No. 63 Sachdeva Ganj, Bathinda 388382",35,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+33,Jivin Karnik,2/8/1976,PYGJQ4016R,696866000000.0,9980841437,hansh83@bala.com,"715, Kala Chowk, Gaya 074167",49,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+34,Hiran Dugal,9/8/2006,HBLVD7637B,571035000000.0,4628958217,eswaminathan@bala.info,44 Dey Ganj Baranagar 231180,19,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+35,Rania Zachariah,7/3/1987,WGZNR6657T,132768000000.0,3095987972,tandonshlok@gmail.com,"H.No. 492, Varty Path Surendranagar Dudhrej 399772",38,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+36,Rania Badal,10/19/1954,OEYGT4369B,509133000000.0,9204409382,qdeol@gole-kant.com,"09/38, Kaul Road, Tumkur-311252",71,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+37,Nishith Dixit,9/6/1963,GTPFJ2129B,422713000000.0,2874768510,vedika51@andra.com,"900 Tank Chowk, Shimoga-894535",62,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+38,Piya Dass,1/4/1966,UVLPK9597Z,174598000000.0,8664502061,evig@tak.com,"H.No. 12, Dhawan Road Berhampore-213956",59,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+39,Gokul Shere,7/10/1962,FHKQF3651V,778635000000.0,6299381626,mtella@kalita.com,"H.No. 524 Ray, Erode 064641",63,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+40,Ela Khare,12/3/1968,RYXEA2533V,158181000000.0,9077377949,aniruddhbala@gill-sanghvi.net,"41/624, Yadav Circle Kharagpur-253830",57,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+41,Chirag Ben,5/31/1990,USZZD5664Y,892312000000.0,1806595048,mehuldoshi@hotmail.com,"50, Gandhi Zila, Morbi 954721",35,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+42,Keya Lad,8/26/1965,CQQDA4355Z,882275000000.0,700659725,bhattacharyyajayan@hotmail.com,H.No. 50 Chakrabarti Street Dharmavaram-543937,60,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+43,Anay Bhasin,12/23/1955,FPMLO5417A,735833000000.0,4359804660,vermaindrajit@gmail.com,997 Sarraf Marg Secunderabad 217771,70,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+44,Taimur Sehgal,6/22/1983,KVGNQ5439F,105308000000.0,7802992230,madhavjaggi@hotmail.com,"H.No. 032, Bobal Road, Ghaziabad 691792",42,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+45,Shamik Tata,7/20/2001,AOIOQ8181F,673398000000.0,2861776446,zamble@sridhar.com,780 Walia Path Siliguri-321116,24,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+46,Rhea Char,2/2/2005,GGPNK0086O,761850000000.0,2666984105,anaysetty@dayal.net,27/678 Setty Bhind-139130,20,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+47,Jhanvi Din,1/8/1969,WKTGA8702O,323532000000.0,4461969456,sachdevdishani@vaidya-amble.com,"H.No. 73, Sachdev Circle, Jalgaon 526778",56,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+48,Armaan Shukla,4/3/1976,SJDKI1689M,109230000000.0,812176468,anandhimmat@hotmail.com,"H.No. 62, Bhatia Ganj, Chandigarh 350031",49,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+49,Khushi Varughese,2/15/1991,FMFLP5555Y,346436000000.0,1005293019,sinharenee@virk-dayal.com,"H.No. 81 Buch Path, Tirupati 504409",34,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+50,Kimaya Tara,8/25/2004,JUWSI1358U,50087384892.0,3049828443,anandindranil@kakar-baral.com,"251, Chacko Path, Deoghar 765936",21,Valid,Valid,Invalid,Invalid,Valid,"KYC Rejected (Invalid Aadhaar, Invalid Phone)",No,0.0,Low
+51,Aaryahi Mangal,6/17/1971,GBTXP2073P,481134000000.0,3821454474,sridharonkar@gaba-srivastava.info,28/344 Gandhi Zila Kavali 842790,54,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+52,Aayush Solanki,6/21/1975,NQIAB6339D,719746000000.0,216250087,bajwazaina@bahri.com,24 Sha Nagar Tinsukia-887019,50,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+53,Mahika Borde,10/22/1964,PVQBX3045M,693769000000.0,8183997160,takurvi@gole.com,"87, Dara Street Visakhapatnam 985239",61,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+54,Lakshay Hans,3/7/2001,MXCCS8847Y,561244000000.0,5300209010,gbera@hotmail.com,847 Bora Path Nellore 387533,24,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+55,Umang Kashyap,12/20/1971,SRJQP6749V,726659000000.0,507356541,sainiadah@sur.org,46 Baria Ganj Kolhapur 567988,54,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+56,Anvi Aggarwal,5/7/1997,UAUAT8795V,15685759083.0,8664241103,ndas@vyas.com,"94/731, Dhingra Marg Ajmer-725964",28,Valid,Valid,Invalid,Valid,Valid,KYC Rejected (Invalid Aadhaar),No,0.0,Low
+57,Hunar Kothari,12/3/1963,VWPXG0251Y,592300000000.0,6755848661,mahalvardaniya@saxena.biz,H.No. 960 Sarma Fatehpur 663643,62,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+58,Shray Sem,3/2/1965,YBDSC8529V,435552000000.0,6390279924,sunderurvi@gmail.com,"H.No. 81 Varkey Ganj, Nangloi Jat-696797",60,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+59,Rhea Iyer,4/29/1979,EKMJJ8304V,98715234170.0,5001155926,vtak@gmail.com,"96/245 Khalsa Road, Bettiah-544664",46,Valid,Valid,Invalid,Invalid,Valid,"KYC Rejected (Invalid Aadhaar, Invalid Phone)",No,0.0,Low
+60,Oorja Tiwari,3/17/1979,YXZFB5455G,817135000000.0,9650047569,kondamamooty@gmail.com,"04 Khosla Nagar, Mira-Bhayandar-953365",46,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+61,Taran Kar,12/2/1999,WODCG6639S,235384000000.0,3385073005,hkaul@gmail.com,"94/208, Thakkar Chittoor-149569",26,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+62,Anika Sachar,3/26/1990,UDKFX5826Q,607680000000.0,2179547680,gdhillon@gopal.net,"52/018, Kala Road, Berhampur 218222",35,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+63,Kimaya Bali,1/5/2006,PQVCI3337V,518460000000.0,6588470213,pihuwalia@hotmail.com,05/98 Goda Circle Meerut 889774,19,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+64,Kiaan Ravi,1/19/1987,TWOLZ6595O,986833000000.0,9172367552,jboase@ahuja-jayaraman.net,"07 Banik Path, Amravati-237765",38,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+65,Mamooty Badami,10/2/2008,GOEXU8380X,846690000000.0,9814025591,cgade@gmail.com,"62/04 Sha Ganj, Bellary-842962",17,Invalid (Underage),Valid,Valid,Valid,Valid,KYC Rejected (Invalid Age),No,0.0,Low
+66,Suhana Sarma,8/5/2000,MITMD6077W,75704985020.0,7139505686,kiarabhandari@gmail.com,"34/876, Dhawan Nagar, Mira-Bhayandar 417985",25,Valid,Valid,Invalid,Valid,Valid,KYC Rejected (Invalid Aadhaar),No,0.0,Low
+67,Hazel Chauhan,9/24/2004,ZQLXQ4433N,63386371301.0,9074547224,esuresh@bhavsar-mani.com,"H.No. 46, Kala Nagar, Kishanganj-151691",21,Valid,Valid,Invalid,Valid,Valid,KYC Rejected (Invalid Aadhaar),No,0.0,Low
+68,Pranay Gour,1/26/1987,IYCIQ5881L,292611000000.0,1862751438,baijuhans@yahoo.com,"583 Tella Marg, Gwalior 932557",38,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+69,Taimur Ghose,2/15/1959,DKSQJ5215Z,375803000000.0,7939625015,onkar80@gmail.com,"H.No. 645, Sawhney Path Malegaon 991789",66,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+70,Samarth Wali,11/22/1994,TJUTH4517T,571255000000.0,6417842529,sthaman@hotmail.com,"85, Saraf Street, Kozhikode-038512",31,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+71,Arhaan Basak,5/31/1991,CEMUA2414L,346932000000.0,7520814566,bdeo@gmail.com,07/57 Kothari Ganj Fatehpur-650626,34,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+72,Ivana Yadav,12/15/1970,GROJF5540I,347342000000.0,8141003081,hkeer@gmail.com,757 Konda Road Chandrapur 452560,55,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+73,Anahi Acharya,11/17/1955,CJGPB8271X,973011000000.0,7564799535,waliaprerak@sibal-karpe.com,"96/00, Tripathi Ganj Sasaram 223791",70,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+74,Mamooty Devan,2/1/1965,NOYMP3386W,457084000000.0,4263107307,ekunda@yohannan-sagar.com,"85/245, Koshy Street Miryalaguda-139875",60,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+75,Lagan Ravi,3/27/1978,FHHFO7375K,673835000000.0,6362721319,urvibassi@gmail.com,"46, Suresh Nagar, Bhavnagar-361546",47,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+76,Neysa Kar,12/31/2009,PRUIB5351J,521385000000.0,6999875471,mvarty@yahoo.com,"94/945, Hora Zila Aligarh-722514",16,Invalid (Underage),Valid,Valid,Valid,Valid,KYC Rejected (Invalid Age),No,0.0,Low
+77,Devansh Varkey,7/18/1974,EHMNC4992T,512195000000.0,3148928074,haldersahil@swaminathan.com,"27, Biswas Path, Mira-Bhayandar 582624",51,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+78,Nakul Borde,8/5/1972,VJEEB7057E,317921000000.0,7572285061,ysur@guha.com,"H.No. 65, Wable Ratlam 635799",53,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+79,Badal Gola,4/25/1983,UEKBK0694N,902235000000.0,8263301076,ideshpande@sidhu.com,590 Raju Ganj Vijayanagaram 900775,42,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+80,Samaira Varughese,5/11/1958,ADWDI4455L,565071000000.0,1271479979,arnav81@bhatt.com,50 Kapadia Saharanpur 792094,67,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+81,Manikya Lalla,7/10/1973,NNNJI4436E,896024000000.0,9465754242,manikya14@dhingra.info,"65, Chander Bardhaman-754842",52,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+82,Eva Jaggi,2/27/1991,XWZNC9160L,950679000000.0,5181382816,raykrish@hotmail.com,"91, Goel Nagar Dhule 496409",34,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+83,Drishya Trivedi,8/23/1980,ORJGT7446E,345973000000.0,1509307392,adiracomar@yogi.biz,"17/996 Iyengar Path, Amritsar 409738",45,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+84,Myra Mall,8/21/1981,XTXZG2122N,574141000000.0,2784647514,pari72@balakrishnan-sem.net,"H.No. 95, Tella Chowk Hyderabad-546529",44,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+85,Saksham Dhar,11/25/2001,KHQAJ4506M,5069180975.0,7670710405,kavya99@sankaran-swamy.info,25/68 Mane Road Chandrapur 843047,24,Valid,Valid,Invalid,Valid,Valid,KYC Rejected (Invalid Aadhaar),No,0.0,Low
+86,Heer De,9/12/1984,BPAJV8231H,81293045090.0,784840174,zeeshanbhandari@gmail.com,"99/297 Wable Circle, Ozhukarai-809905",41,Valid,Valid,Invalid,Invalid,Valid,"KYC Rejected (Invalid Aadhaar, Invalid Phone)",No,0.0,Low
+87,Kimaya Ramesh,4/11/1976,VLCNM1221E,229475000000.0,9263321667,nayantara19@yahoo.com,"43/938, Jayaraman Street Bharatpur 565488",49,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+88,Damini Chana,5/8/1979,XKBTH0717L,207757000000.0,3238480534,faiyazmani@sheth-mane.com,"32, Agate Chowk, Katni-637844",46,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+89,Saanvi Desai,2/21/1955,FIPPL9045D,726884000000.0,5510519388,bdyal@gmail.com,"25, Cheema Bhilwara 842056",70,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+90,Kashvi Srivastava,12/21/1958,BWCGY4778M,910111000000.0,553915329,alishasagar@sawhney.info,"H.No. 01 Bhatt Marg, Bijapur 211137",67,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+91,Vaibhav Sane,5/24/2002,GKJHK3921I,959019000000.0,2966147578,trishachada@raman-buch.com,61/750 Dani Street Hyderabad 847861,23,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+92,Reyansh Golla,4/10/2004,GQLMQ6812Y,745943000000.0,7979616376,nchopra@khatri-anand.com,H.No. 764 Dave Circle Mango-390481,21,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+93,Anaya Gandhi,7/13/2001,MEQEX1150L,484656000000.0,2557597192,annebaiju@vohra.org,"73/046, Zachariah Ganj Tadepalligudem 987586",24,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+94,Kiaan Banik,7/12/1967,RDMZH8097I,565421000000.0,6399895754,raunak30@hotmail.com,"H.No. 156, Subramaniam Circle Bongaigaon-093294",58,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+95,Inaaya  Doctor,10/5/1964,GNEPI4573H,695920000000.0,6389537887,zara61@mane.com,"H.No. 075 Gaba Ganj, Srinagar-318231",61,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+96,Nirvaan Kohli,5/21/1972,SNLRF7967V,432640000000.0,6956355125,hanshchopra@hotmail.com,H.No. 55 Borde Road South Dumdum-704156,53,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+97,Akarsh Balasubramanian,6/8/1965,FOKLG7323F,90537481651.0,7538838719,kavya93@srinivas.org,H.No. 790 Bal Path Madhyamgram-043212,60,Valid,Valid,Invalid,Valid,Valid,KYC Rejected (Invalid Aadhaar),No,0.0,Low
+98,Taimur Mander,9/5/1984,NFCHT6985A,545300000000.0,1035754579,cdhingra@gmail.com,"H.No. 144 Jayaraman, Alappuzha-677273",41,Valid,Valid,Valid,Invalid,Valid,KYC Rejected (Invalid Phone),No,0.0,Low
+99,Ela Khosla,11/28/1993,SUIPQ5251W,243685000000.0,9370669136,mamootybose@yahoo.com,H.No. 40 Mahal Street Loni 928663,32,Valid,Valid,Valid,Valid,Valid,KYC Verified ,No,0.0,Low
+100,Divit Bhatnagar,9/8/1977,FYQZB7800Z,29467946409.0,380593805,srinivasanrohan@subramaniam-rajan.com,681 Ratti South Dumdum 847463,48,Valid,Valid,Invalid,Invalid,Valid,"KYC Rejected (Invalid Aadhaar, Invalid Phone)",No,0.0,Low
